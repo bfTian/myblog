@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>英刚博客</title>
+    <link>https://bftian.github.io/myblog</link>
+    <description>写点东西，留点印记</description>
+    <language>zh-CN</language>
+    <generator>GitPress</generator>
+    <item>
+      <title>你好,世界</title>
+      <link>https://bftian.github.io/myblog/posts/hello-world/</link>
+      <guid>https://bftian.github.io/myblog/posts/hello-world/</guid>
+      <pubDate>Mon, 09 Nov 2026 09:43:11 GMT</pubDate>
+      <description>我在 GitPress 上的第一篇文章。</description>
+    </item>
+  </channel>
+</rss>
